@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ola/app/src/main/res/drawable/bag_selector.xml" value="0.21818181061547676" />
+        <entry key="..\:/Ola/app/src/main/res/drawable/home_selector.xml" value="0.233" />
+        <entry key="..\:/Ola/app/src/main/res/drawable/shape.xml" value="0.297" />
+        <entry key="..\:/Ola/app/src/main/res/layout/activity_main.xml" value="0.2879999900124293" />
+        <entry key="..\:/Ola/app/src/main/res/layout/activity_main2.xml" value="0.2879999900124293" />
+        <entry key="..\:/Ola/app/src/main/res/layout/activity_main3.xml" value="0.2942708333333333" />
+        <entry key="..\:/Ola/app/src/main/res/layout/customdialog.xml" value="0.2879999900124293" />
+        <entry key="..\:/Ola/app/src/main/res/layout/fragment_bottom__navi.xml" value="0.2942708333333333" />
+        <entry key="..\:/Ola/app/src/main/res/layout/fragment_home.xml" value="0.28020833333333334" />
+        <entry key="..\:/Ola/app/src/main/res/layout/item.xml" value="0.2879999900124293" />
+        <entry key="..\:/Ola/app/src/main/res/layout/pro_details_activity.xml" value="0.2942708333333333" />
+        <entry key="..\:/Ola/app/src/main/res/menu/tabs.xml" value="0.2942708333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

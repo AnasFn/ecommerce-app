@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' }
+        jcenter()
+        // Example for setting the SDK to crash when in debug mode
+       // AdSettings.setIntegrationErrorMode(INTEGRATION_ERROR_CRASH_DEBUG_MODE);
+        //repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    }
+
+
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' }
+    }
+}
+rootProject.name = "Ola"
+include ':app'
